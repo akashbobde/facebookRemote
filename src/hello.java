@@ -11,7 +11,7 @@ public class hello {
 	    
 	    //branches changes
 	     
-	    System.out.println("new request");
+	    System.out.println("new");
 	}
 
 }
